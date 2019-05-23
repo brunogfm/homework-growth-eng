@@ -11,7 +11,7 @@ Users should have a good user experience on desktop, tablet and mobile devices.
 
 This project is pretty open ended in order to leave you some freedom to improve upon the base by focusing on what you like the most.
 
-One of the top priorities for a growth engineer at Eaze is to optimize various UI/UX components to driver user acquisition and retention. In this project, we would like you to pick two components of your app and write A/B tests for them. Make sure that you tests are built to optimize for user enagagement, such as opening GIFs and viewing GIFs. What tooling would you use and why? What sort of results do you expect from your test and how would you track them? Don't worry about gathering statistics, just focus on setting up your tests.
+One of the top priorities for a growth engineer is to optimize various UI/UX components to driver user acquisition and retention. In this project, we would like you to pick two components of your app and write A/B tests for them. Make sure that you tests are built to optimize for user enagagement, such as opening GIFs and viewing GIFs. What tooling would you use and why? What sort of results do you expect from your test and how would you track them? Don't worry about gathering statistics, just focus on setting up your tests.
 
 Here are some examples of components you could test, but feel free to think of your own:
 - When the user scrolls the page to the bottom, load new GIFs automatically.
